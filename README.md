@@ -58,15 +58,7 @@
                         <div class="brand-subtitle">Web Designer | Developer</div>
                     </li>
                 </ul>
-                <ul class="navbar-nav ml-auto">
-                    <li class="nav-item">
-                        <a href="#portfolio" class="nav-link">Portfolio</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="#blog" class="nav-link">Blog</a>
-                    </li>
-                    <li class="nav-item last-item">
-                        <a href="#contact" class="nav-link">Contact</a>
+               
                     </li>
                 </ul>
             </div>
