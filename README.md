@@ -33,7 +33,6 @@
                 <button class="btn btn-primary btn-rounded"><i class="ti-printer pr-2"></i>Inprimir</button>
             </div>
         </div>
-		</head>
     </header>
     <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-white" data-spy="affix" data-offset-top="510">
         <div class="container">
