@@ -1,7 +1,7 @@
-
 <html lang="en">
     <link type="text/css" rel="stylesheet" href="style.css"/>
   <body>
+	  <head>
 	<meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Start your development with JohnDoe landing page.">
@@ -33,6 +33,7 @@
                 <button class="btn btn-primary btn-rounded"><i class="ti-printer pr-2"></i>Inprimir</button>
             </div>
         </div>
+		<head>
     </header>
     <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-white" data-spy="affix" data-offset-top="510">
         <div class="container">
