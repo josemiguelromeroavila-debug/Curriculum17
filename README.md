@@ -26,7 +26,7 @@
                 <li class="social-item"><a class="social-link text-light" href="#"><i class="ti-github" aria-hidden="true"></i></a></li>
             </ul>  
             <div class="header-content">
-                <img src="fotomiguel.jpg"width= "250" height="250" >
+                <img ="fotomiguel.jpg"width="250" height="250">
                 <h4 class="header-subtitle" >Hola, soy</h4>
                 <h1 class="header-title">Jose Miguel</h1>
                 <h6 class="header-mono" >CEO Director | Ciber Human </h6>
