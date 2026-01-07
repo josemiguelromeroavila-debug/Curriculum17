@@ -139,5 +139,4 @@ Aportación: Ayudó a expandir la empresa, implementó estrategias de sevicios y
     </div>
     <script type="module" src="script.js"></script>
   </body>
-</head>
 </html>
