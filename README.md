@@ -30,6 +30,7 @@
                 <h4 class="header-subtitle" >Hola, soy</h4>
                 <h1 class="header-title">Jose Miguel</h1>
                 <h6 class="header-mono" >CEO Director | Ciber Human </h6>
+				
                 <button class="btn btn-primary btn-rounded"><i class="ti-printer pr-2"></i>Inprimir</button>
             </div>
         </div>
