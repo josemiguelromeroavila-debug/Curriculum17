@@ -1,6 +1,5 @@
 
 <html lang="en">
-  <head>
     <link type="text/css" rel="stylesheet" href="style.css"/>
   <body>
 	<meta charset="utf-8">
