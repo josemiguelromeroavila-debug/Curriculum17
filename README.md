@@ -25,7 +25,6 @@
                 <li class="social-item"><a class="social-link text-light" href="#"><i class="ti-instagram" aria-hidden="true"></i></a></li>
                 <li class="social-item"><a class="social-link text-light" href="#"><i class="ti-github" aria-hidden="true"></i></a></li>
             </ul>  
-			<head>
             <div class="header-content">
                 <img src="fotomiguel.jpg" width="250" height="250" >
                 <h4 class="header-subtitle" >Hola, soy</h4>
